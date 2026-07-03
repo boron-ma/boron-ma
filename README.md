@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there 👋 I'm Byron
+Security learner focusing on Web penetration testing & vulnerability mining.
 
-<!--
-**boron-ma/boron-ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🎯 Core Research Scope
+- Web Vulnerability Reproduction: SQLi / XSS / File Upload / SSRF / CSRF / JWT / Logic Bypass
+- SRC Bug Writeup & Vulnerability Analysis
+- Self-develop Python security scripts & automation tools
+- Web Security Lab Notes & Code Audit Records
 
-Here are some ideas to get you started:
+#### 📚 My Main Repository
+[penetration-testing](https://github.com/boron-ma/penetration-testing)
+Hexo-based technical blog, all my vulnerability study articles stored here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌐 Personal Blog
+https://boron-ma.github.io/penetration-testing
+
+#### 🛠 Tech Stack
+Python | BurpSuite | SQLMap | DVWA/Pikachu | Hexo | Git
