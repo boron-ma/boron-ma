@@ -12,7 +12,7 @@ Security learner focusing on Web penetration testing & vulnerability mining.
 Hexo-based technical blog, all my vulnerability study articles stored here.
 
 #### 🌐 Personal Blog
-https://boron-ma.github.io/penetration-testing
+https://byroins.github.io
 
 #### 🛠 Tech Stack
 Python | BurpSuite | SQLMap | DVWA/Pikachu | Hexo | Git
